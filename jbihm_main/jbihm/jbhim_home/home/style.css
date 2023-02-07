@@ -592,9 +592,9 @@ blockquote p {
   border-radius: 4px 4px 4px 4px;
 }
 .readon.yellow-btn:hover {
-  color: #ffffff;
+  /* color: #ffffff;
   background: #171f32;
-  border-color: #171f32;
+  border-color: #171f32; */
 }
 .readon.yellow-btn.transparent3:hover {
   color: #1c335f;
@@ -667,10 +667,10 @@ blockquote p {
   background: rgba(243, 248, 239, 0.8);
   color: #111111;
 }
-.readon:hover {
+/* .readon:hover {
   background: #21a7d0;
   color: #ffffff;
-}
+} */
 .readon2 {
   outline: none;
   border: none;
@@ -18330,7 +18330,7 @@ body .modal-backdrop {
 ------------------------------------*/
 .rs-footer {
   background-color: #273c66;
-  background-image: url(assets/images/bg/footer-bg.png);
+  /* background-image: url(assets/images/bg/footer-bg.png); */
   background-size: cover;
 }
 .rs-footer .footer-top {
