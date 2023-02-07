@@ -10,7 +10,13 @@
 }
 #contact .btm-ol {
   border: none;
-  border-radius: 1px solid #62021b;
+  border: 1px solid #62021b;
+}
+.hov-effect:hover {
+  background-color: #fff;
+  color: #62021b;
+  border: 1px solid #62021b;
+  transition: 0.5s;
 }
 /* #contact {
     display: flex;
