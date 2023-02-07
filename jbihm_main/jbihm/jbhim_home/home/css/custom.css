@@ -8,3 +8,12 @@
   z-index: -1;
   background-color: #62021b;
 }
+#contact .btm-ol {
+  border: none;
+  border-radius: 1px solid #62021b;
+}
+/* #contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} */
