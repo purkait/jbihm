@@ -593,7 +593,7 @@ blockquote p {
 }
 .readon.yellow-btn:hover {
   background-color: #fff !important;
-  color: #62021b !important; 
+  color: #62021b !important;
   border: 1px solid #62021b !important;
   transition: 0.5s;
 }
@@ -8873,8 +8873,9 @@ body .modal-backdrop {
   .button-bottom
   .button-effect
   a:hover {
-  color: #ffffff;
-  background: #1c335f;
+  border: 1px solid #62021b;
+  color: #62021b !important;
+  background-color: #fff;
 }
 .rs-categories.home9-style .categories-items:hover {
   transform: translateY(-10px);
