@@ -592,9 +592,9 @@ blockquote p {
   border-radius: 4px 4px 4px 4px;
 }
 .readon.yellow-btn:hover {
-  background-color: #fff;
-  color: #62021b;
-  border: 1px solid #62021b;
+  background-color: #fff !important;
+  color: #62021b !important; 
+  border: 1px solid #62021b !important;
   transition: 0.5s;
 }
 .readon.yellow-btn.transparent3:hover {
